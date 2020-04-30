@@ -1,6 +1,6 @@
 {
   "name": "@nagasuryamangai/ember-cli-jstree",
-  "version": "1.0.13",
+  "version": "1.2.0",
   "description": "Forked branch of ember-cli-jstree to include events corresponding to the working of search addon in jstree.",
   "directories": {
     "doc": "doc",
