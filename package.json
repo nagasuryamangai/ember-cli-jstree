@@ -1,7 +1,7 @@
 {
-  "name": "ember-cli-jstree",
-  "version": "1.0.12",
-  "description": "ember-cli addon for jstree http://www.jstree.com/",
+  "name": "@nagasuryamangai/ember-cli-jstree",
+  "version": "1.0.13",
+  "description": "Forked branch of ember-cli-jstree to include events corresponding to the working of search addon in jstree.",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ritesh83/ember-cli-jstree.git"
+    "url": "git://github.com/nagasuryamangai/ember-cli-jstree.git"
   },
   "engines": {
     "node": "^4.5 || 6.* || >= 7.*"
   },
-  "author": "",
+  "author": "Naga Surya Mangai N <nagasuryamangai@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "bootstrap": "^3.3.7",
